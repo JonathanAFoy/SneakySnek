@@ -1,6 +1,17 @@
 # Sneaky Snek
 
-This template should help get you started developing with Vue 3 in Vite.
+Welcome to Sneaky Snek (a spin on the OG SNAKE)! 
+
+Use the directional keys to chase down the loot bags! 
+
+Press SPACE to pause the chase!
+
+
+TO DO:
+Add difficulty setting to enable border contact (death).
+Update snake to fit "robber" design.
+Update food to fit "loot" design.
+
 
 ## Recommended IDE Setup
 
